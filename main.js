@@ -38,7 +38,7 @@ const batch = [
   //mystery5,
 ];
 
-// Add your functions below:
+// Take a credit card number and validate using the Luhn Algorithm
 const validateCred = (arr) => {
 
   // Remove the last digit and reverse the array
